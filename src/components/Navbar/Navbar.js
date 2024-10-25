@@ -1,6 +1,6 @@
 import React from 'react';
 import './Navbar.scss';
-import logo from '../../img/city-tour.png';
+import logo from './city-tour.png';
 
 export default function Navbar() {
     return (
